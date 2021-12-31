@@ -17,7 +17,6 @@ Anyone interested in gaining any insight into gun violence in the US. While many
 Limitations:
 Dataset: Very little is known about the suspect as far as mental health and motive is concerned. Some key words like robbery, gang vs gang, and drugs give us some indicating factors but these descriptors were only occasionally present. Also, my knowledge of Natural Language Processing(NLP) is basically non-existent at this point. My implementation of parsing key word descriptors was therefore archaic at best.
 Work-Arounds: My self taught working knowledge of lambda functions is a work in progress. While I have improved in their implementation, I still find myself reverting to more primititive work-arounds when pressed for time.
-Dealing with locations(ie state and city) didn't work in an unsupervised environment because of computer processing limitations. Therefore, I eliminated them and just looked at all the 2018 gun violence incidents as a whole.
-Code: I would also like to thank all of those who post their code on-line as it is an invaulable resource when tweaking and adjusting things to work as needed.
+
 Further Investigation:
-I would find it interesting to investigate the makeup of the suspects including but not limited to mental health, criminal history, educational level, employment history, and other pertinent personal information. This could also be segued into a supervised learning model with a predictive component. As stated earlier, further analysis could be pursued once a foundation in NLP is established.
+I would find it interesting to investigate the makeup of the suspects including but not limited to mental health, criminal history, educational level, employment history, and other pertinent personal information. This could also be segued into a supervised learning model with a predictive component.
